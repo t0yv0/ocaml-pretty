@@ -2,7 +2,9 @@
 
    Pretty-prints documents.  This module is similar in purpose to
    OCaml standard Format module, but is based on the combinators
-   described in Wadler's "A prettier printer."
+   described in Wadler's paper
+   {{:http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf}
+   "A prettier printer."}
 
    Unlike Wadler's implementation, the present code does not admit
    lazy document nodes and therefore pretty printing always uses O(N)
