@@ -10,5 +10,6 @@
 *.native
 *.o
 *.odocl
+*.stamp
 *~
 _build
