@@ -2,4 +2,4 @@ ocaml-pretty
 ============
 
 A simple pretty-printing module similar to Format in purpose but based
-on Wadler's "A prettier printe" combinators.
+on Wadler's "A prettier printer" combinators.
